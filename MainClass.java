@@ -1,4 +1,4 @@
-package csci1010.assign5;
+package cs2.a;
 /**
  * Instantiates the TennisMatch class. User
  * is able to input sets and player's strength

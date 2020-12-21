@@ -1,4 +1,4 @@
-package csci1010.assign5;
+package cs2.a;
 /**
  * TennisMatch class has constructor for taking
  * user input, which calculates number of
